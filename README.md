@@ -4,3 +4,8 @@ I'd made a presnetation of my work and uploaded it on my [YouTube](https://www.y
 ), feel free to leave any comment and discussed with me.
 
 ## Feature Engineering
+The most important of my work was I made a whole new feature by connecting the **Actual Price Registration of Real Estate Transactions**.</p>
+I wrote a for loop to traverse the train data and Real Estate Transactions data to find out the estimate price by intersectional location(in street scale).
+You would see the detail in [this file](finding_average_price_1111.ipynb). 
+
+## 
