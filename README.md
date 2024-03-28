@@ -1,5 +1,5 @@
 # AIGO Competition - Predict House Value
-This is a competition hosted bt *Bank SinoPac* and *Trendmicro*, aiming to utilize **utilize machine learning methods for house price prediction**. </p>
+This is a competition hosted bt *Bank SinoPac* and *Trendmicro*, aiming to **utilize machine learning methods for house price prediction**. </p>
 I have prepared a presentation outlining my work, which I have uploaded on [YouTube](https://www.youtube.com/watch?v=IHKnk4oO_f0) along with the [presentation slides](https://drive.google.com/file/d/1TtM6ZHAStXn6w2Whlg3uxuen6iA1zAG0/view?usp=share_link
 ).Please feel free to comment and engage in discussions.
 
